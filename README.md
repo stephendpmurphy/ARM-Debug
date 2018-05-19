@@ -9,6 +9,4 @@ This current design is intended to be used with an [FTDI TTL-232R-3V3](http://ww
 
 ![alt text](images/Debug_Header.JPG)
 
-![alt text](images/Schematic.JPG)
-
 ![alt text](images/ARM_Debug.JPG)
