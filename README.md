@@ -3,7 +3,7 @@ This debug board allows two unused traces of a 10pin JTAG/SWD connector to be br
 
 This current design is intended to be used with an [FTDI TTL-232R-3V3](http://www.ftdichip.com/Products/Cables/USBTTLSerial.htm) cable. The design also has four TE Test points used for probing the 5V, 3.3V, and GND signals from the target device and FTDI cable and/or providing power to the target.
 
-##### Components
+## Components
 - [10pin JTAG/SWD Header - **ftsh-105-01-l-dv-k**](https://www.samtec.com/partnumber/ftsh-105-01-l-dv-k-tr?vendor=digikey)
 - [TE Test Points - **RCU-0C / 1625854-3**](http://www.te.com/usa-en/product-1625854-3.html)
 
