@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="8.4.1">
+<eagle version="9.0.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -1418,6 +1418,7 @@ design rules under a new name.</description>
 <param name="checkFont" value="1"/>
 <param name="checkRestrict" value="1"/>
 <param name="checkStop" value="0"/>
+<param name="checkValues" value="0"/>
 <param name="useDiameter" value="13"/>
 <param name="maxErrors" value="50"/>
 </designrules>
@@ -1766,7 +1767,7 @@ design rules under a new name.</description>
 <signal name="N$1">
 <contactref element="LED1" pad="A"/>
 <contactref element="R5" pad="1"/>
-<wire x1="31.75" y1="8.67" x2="31.75" y2="11.75" width="0" layer="19" extent="1-1"/>
+<wire x1="31.75" y1="11.75" x2="31.75" y2="8.67" width="0.3048" layer="1"/>
 </signal>
 <signal name="N$2">
 <contactref element="LED2" pad="A"/>
