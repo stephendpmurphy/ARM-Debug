@@ -5,7 +5,5 @@ This debug board allows two unused traces of a 10pin JTAG/SWD connector (Pins 7 
 
 Note: This can only be used with Targets that use SWD as the programming interface. A different board will need to be made in the case the pinout changes of the Samtech Cortex header (TPI, SPI, etc.)
 
-## Components
-- [10pin JTAG/SWD Header - **ftsh-105-01-l-dv-k**](https://www.samtec.com/partnumber/ftsh-105-01-l-dv-k-tr?vendor=digikey)
-
 ![alt text](images/Debug_Header.JPG)
+![alt text](images/RevD.png)
