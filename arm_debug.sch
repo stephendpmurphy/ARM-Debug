@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.3.2">
+<eagle version="9.5.1">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -10414,9 +10414,9 @@ VIDA Products INC</description>
 <label x="40.64" y="40.64" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="U1" gate="G$1" pin="USBDP"/>
-<wire x1="68.58" y1="73.66" x2="71.12" y2="73.66" width="0.1524" layer="91"/>
-<label x="71.12" y="73.66" size="1.27" layer="95" xref="yes"/>
+<pinref part="U1" gate="G$1" pin="USBDM"/>
+<wire x1="68.58" y1="76.2" x2="71.12" y2="76.2" width="0.1524" layer="91"/>
+<label x="71.12" y="76.2" size="1.778" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="D+" class="0">
@@ -10430,9 +10430,9 @@ VIDA Products INC</description>
 <label x="40.64" y="38.1" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="U1" gate="G$1" pin="USBDM"/>
-<wire x1="68.58" y1="76.2" x2="71.12" y2="76.2" width="0.1524" layer="91"/>
-<label x="71.12" y="76.2" size="1.27" layer="95" xref="yes"/>
+<pinref part="U1" gate="G$1" pin="USBDP"/>
+<wire x1="68.58" y1="73.66" x2="71.12" y2="73.66" width="0.1524" layer="91"/>
+<label x="71.12" y="73.66" size="1.778" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="TARGET_PWR" class="0">
